@@ -1,0 +1,40 @@
+Sent 1:
+
+35, token no. 30, token massimo da ADJ a NOUN
+46, token no. 41, token avessero da AUX a VERB
+74, token no. 69, token scontate da NOUN a ADJ
+83, token no. 78, token sarebbero da VA a V (xpos)
+
+Sent 2:
+112, token no. 16, token è da V a VA
+113, token no. 17, token applicata da 
+Differences found at line 146, token no. 6, token diverso
+Differences found at line 270, token no. 2, token come
+Differences found at line 476, token no. 14, token cioè
+Differences found at line 536, token no. 35, token dopo
+Differences found at line 640, token no. 23, token aver
+Differences found at line 653, token no. 6, token po'
+Differences found at line 701, token no. 5, token Aula
+Differences found at line 775, token no. 20, token ter
+Differences found at line 779, token no. 24, token quater
+Differences found at line 786, token no. 31, token autonomi
+Differences found at line 842, token no. 34, token bis
+Differences found at line 909, token no. 40, token crea
+Differences found at line 1008, token no. 17, token Paese
+Differences found at line 1119, token no. 38, token vivo
+Differences found at line 1203, token no. 13, token Paese
+Differences found at line 1209, token no. 19, token tantissimi
+Differences found at line 1231, token no. 40, token sarebbe
+Differences found at line 1259, token no. 5, token estrema
+Differences found at line 1260, token no. 6, token ratio
+Differences found at line 1263, token no. 9, token poiché
+Differences found at line 1385, token no. 34, token che
+Differences found at line 1492, token no. 7, token intese
+Differences found at line 1493, token no. 8, token come
+Differences found at line 1494, token no. 9, token le
+Differences found at line 1665, token no. 41, token che
+Tot diff:  29
+
+Average observed agreement: 0.9814932992980216
+
+Kappa: 0.9792460568284368

@@ -1,0 +1,119 @@
+PS D:\Documenti\Uni\LingComp2\Progetto\Comparazioni> python script-py3-win.py pos LEG17_Ele.txt LEG17_Chi.txt
+Differences found at line 35, token no. 30, token massimo
+Differences found at line 182, token no. 17, token come
+Differences found at line 476, token no. 14, token cioè
+Differences found at line 775, token no. 20, token ter
+Differences found at line 779, token no. 24, token quater
+Differences found at line 842, token no. 34, token bis
+Differences found at line 1008, token no. 17, token Paese
+Differences found at line 1209, token no. 19, token tantissimi
+Differences found at line 1263, token no. 9, token poiché
+Differences found at line 1641, token no. 18, token leitmotiv
+Tot diff:  10
+
+Average observed agreement: 0.9936183790682833
+
+Kappa: 0.9928448664770807
+
+PS D:\Documenti\Uni\LingComp2\Progetto\Comparazioni> python script-py3-win.py dep LEG17_Ele.txt LEG17_Chi.txt
+Differences found at line 33, token no. 28, token a
+Differences found at line 34, token no. 29, token il
+Differences found at line 35, token no. 30, token massimo
+Differences found at line 53, token no. 48, token avrebbero
+Differences found at line 105, token no. 9, token ,
+Differences found at line 136, token no. 39, token applicazione
+Differences found at line 157, token no. 16, token misura
+Differences found at line 181, token no. 16, token così
+Differences found at line 182, token no. 17, token come
+Differences found at line 245, token no. 12, token che
+Differences found at line 247, token no. 14, token sono
+Differences found at line 249, token no. 16, token ,
+Differences found at line 274, token no. 6, token ,
+Differences found at line 276, token no. 8, token ,
+Differences found at line 285, token no. 16, token ,
+Differences found at line 290, token no. 21, token esattamente
+Differences found at line 356, token no. 35, token ,
+Differences found at line 362, token no. 41, token ,
+Differences found at line 409, token no. 20, token ,
+Differences found at line 423, token no. 33, token strappati
+Differences found at line 437, token no. 45, token dati
+Differences found at line 476, token no. 14, token cioè
+Differences found at line 480, token no. 17, token articolo
+Differences found at line 487, token no. 23, token ,
+Differences found at line 513, token no. 14, token ,
+Differences found at line 531, token no. 30, token fatto
+Differences found at line 534, token no. 33, token si
+Differences found at line 535, token no. 34, token affezioni
+Differences found at line 538, token no. 37, token minuti
+Differences found at line 551, token no. 8, token quattro
+Differences found at line 553, token no. 10, token sei
+Differences found at line 565, token no. 21, token ,
+Differences found at line 567, token no. 23, token ,
+Differences found at line 601, token no. 14, token ,
+Differences found at line 638, token no. 22, token magari
+Differences found at line 654, token no. 7, token più
+Differences found at line 669, token no. 19, token limitar
+Differences found at line 723, token no. 26, token ,
+Differences found at line 728, token no. 30, token rivolgiamo
+Differences found at line 775, token no. 20, token ter
+Differences found at line 779, token no. 24, token quater
+Differences found at line 786, token no. 31, token autonomi
+Differences found at line 831, token no. 23, token ,
+Differences found at line 842, token no. 34, token bis
+Differences found at line 878, token no. 12, token che
+Differences found at line 879, token no. 13, token ,
+Differences found at line 885, token no. 19, token si
+Differences found at line 903, token no. 35, token adozione
+Differences found at line 908, token no. 39, token ,
+Differences found at line 938, token no. 20, token ,
+Differences found at line 949, token no. 30, token quali
+Differences found at line 951, token no. 32, token durato
+Differences found at line 953, token no. 34, token anni
+Differences found at line 957, token no. 38, token -
+Differences found at line 958, token no. 39, token quello
+Differences found at line 965, token no. 45, token -
+Differences found at line 970, token no. 50, token anni
+Differences found at line 971, token no. 51, token ,
+Differences found at line 979, token no. 59, token prima
+Differences found at line 980, token no. 60, token presso
+Differences found at line 996, token no. 6, token spero
+Differences found at line 1036, token no. 9, token figli
+Differences found at line 1038, token no. 11, token addirittura
+Differences found at line 1066, token no. 4, token figli
+Differences found at line 1067, token no. 5, token sono
+Differences found at line 1109, token no. 29, token G100
+Differences found at line 1209, token no. 19, token tantissimi
+Differences found at line 1215, token no. 25, token vivono
+Differences found at line 1219, token no. 29, token ,
+Differences found at line 1220, token no. 30, token probabilmente
+Differences found at line 1221, token no. 31, token ,
+Differences found at line 1222, token no. 32, token interpretando
+Differences found at line 1228, token no. 37, token lettera
+Differences found at line 1261, token no. 7, token ,
+Differences found at line 1262, token no. 8, token ma
+Differences found at line 1263, token no. 9, token poiché
+Differences found at line 1274, token no. 18, token avviene
+Differences found at line 1287, token no. 31, token trova
+Differences found at line 1295, token no. 39, token sempre
+Differences found at line 1299, token no. 43, token e
+Differences found at line 1368, token no. 19, token famiglia
+Differences found at line 1384, token no. 33, token ,
+Differences found at line 1389, token no. 38, token mettere
+Differences found at line 1435, token no. 31, token confronti
+Differences found at line 1460, token no. 15, token fa
+Differences found at line 1469, token no. 23, token ,
+Differences found at line 1473, token no. 27, token famiglie
+Differences found at line 1481, token no. 35, token esistono
+Differences found at line 1495, token no. 10, token intendeva
+Differences found at line 1502, token no. 17, token ambienti
+Differences found at line 1556, token no. 9, token ,
+Differences found at line 1558, token no. 11, token proposito
+Differences found at line 1584, token no. 17, token sono
+Differences found at line 1641, token no. 18, token leitmotiv
+Differences found at line 1664, token no. 40, token ,
+Differences found at line 1668, token no. 44, token anni
+Tot diff:  96
+
+Average observed agreement: 0.9387364390555201
+
+Kappa: 0.9383744137802204

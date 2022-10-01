@@ -1,0 +1,19 @@
+line 25	20	Forze	da PROPN	a NOUN
+line 58	10	Paese	da PROPN	a NOUN
+line 167	53	che	da PRON	a SCONJ
+line 174	60	pochissimo	da PRON	a ADV
+line 569	42	accorti	da ADJ	a VERB
+line 646	5	Ministro	da PROPN	a NOUN
+line 724	10	quale	da ADP	a DET
+line 729	14	Gruppo	da NOUN	a PROPN
+line 789	31	quale	da SCONJ	a PRON
+line 942	24	Dicastero	da NOUN	a PROPN
+line 958	38	dovuti	da VERB	a ADJ
+line 988	11	riguardo	da ADV	a NOUN
+line 1473	21	come	da ADP	a CCONJ
+line 1497	3	dicevo	da VERB	a NOUN
+Tot diff:  14
+
+Average observed agreement: 0.9910941475826972
+
+Kappa: 0.9900297503768064

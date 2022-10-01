@@ -1,0 +1,15 @@
+line 35	30	massimo	da NOUN	a ADJ
+line 182	17	come	da ADP	a CCONJ
+line 476	14	cioè	da CCONJ	a ADV
+line 775	20	ter	da ADV	a ADJ
+line 779	24	quater	da ADV	a ADJ
+line 842	34	bis	da NOUN	a ADJ
+line 1008	17	Paese	da PROPN	a NOUN
+line 1209	19	tantissimi	da DET	a ADJ
+line 1263	9	poiché	da ADV	a SCONJ
+line 1641	18	leitmotiv	da NOUN	a X
+Tot diff:  10
+
+Average observed agreement: 0.9936183790682833
+
+Kappa: 0.9928448664770807

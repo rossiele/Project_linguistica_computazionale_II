@@ -1,0 +1,63 @@
+Differences found at line 25, token no. 20, token Forze
+Differences found at line 55, token no. 7, token armata
+Differences found at line 115, token no. 3, token condivido
+Differences found at line 134, token no. 21, token Ministro
+Differences found at line 167, token no. 53, token che
+Differences found at line 174, token no. 60, token pochissimo
+Differences found at line 353, token no. 29, token cosa
+Differences found at line 392, token no. 4, token come
+Differences found at line 393, token no. 5, token dicevo
+Differences found at line 418, token no. 7, token stessi
+Differences found at line 433, token no. 22, token prese
+Differences found at line 470, token no. 58, token Ministro
+Differences found at line 498, token no. 24, token dure
+Differences found at line 508, token no. 33, token responsabile
+Differences found at line 569, token no. 42, token accorti
+Differences found at line 583, token no. 3, token Ministro
+Differences found at line 646, token no. 5, token Ministro
+Differences found at line 691, token no. 26, token responsabile
+Differences found at line 722, token no. 8, token Ministro
+Differences found at line 724, token no. 10, token quale
+Differences found at line 729, token no. 14, token Gruppo
+Differences found at line 774, token no. 16, token Ministro
+Differences found at line 789, token no. 31, token quale
+Differences found at line 790, token no. 32, token sia
+Differences found at line 817, token no. 6, token Aula
+Differences found at line 849, token no. 37, token vorrà
+Differences found at line 894, token no. 5, token Ministro
+Differences found at line 942, token no. 24, token Dicastero
+Differences found at line 956, token no. 36, token scontati
+Differences found at line 958, token no. 38, token dovuti
+Differences found at line 988, token no. 11, token riguardo
+Differences found at line 1094, token no. 13, token approfondita
+Differences found at line 1132, token no. 13, token personale
+Differences found at line 1194, token no. 26, token sia
+Differences found at line 1225, token no. 22, token rivolte
+Differences found at line 1229, token no. 26, token proteste
+Differences found at line 1273, token no. 69, token feriti
+Differences found at line 1275, token no. 71, token contusi
+Differences found at line 1285, token no. 6, token Ministro
+Differences found at line 1319, token no. 2, token risposte
+Differences found at line 1320, token no. 3, token certe
+Differences found at line 1425, token no. 21, token Ministro
+Differences found at line 1452, token no. 1, token Signor
+Differences found at line 1453, token no. 2, token Ministro
+Differences found at line 1473, token no. 21, token come
+Differences found at line 1495, token no. 1, token Come
+Differences found at line 1496, token no. 2, token le
+Differences found at line 1497, token no. 3, token dicevo
+Differences found at line 1499, token no. 5, token vogliamo
+Differences found at line 1500, token no. 6, token risposte
+Differences found at line 1535, token no. 10, token premeditati
+Differences found at line 1541, token no. 15, token Stato
+Differences found at line 1579, token no. 12, token Ministro
+Differences found at line 1651, token no. 4, token siamo
+Differences found at line 1662, token no. 4, token che
+Differences found at line 1679, token no. 10, token mezzi
+Differences found at line 1713, token no. 1, token Signor
+Differences found at line 1714, token no. 2, token Ministro
+Tot diff:  58
+
+Average observed agreement: 0.9631043256997456
+
+Kappa: 0.958755611527584
